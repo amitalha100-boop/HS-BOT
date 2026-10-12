@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hellslayerMC.aternos.me",
-    "port": 62689,
+    "ip": "hellslayer.play.hosting",
+    "port": 25897,
     "version": "1.20.1",
     "try-creative": false
   },
